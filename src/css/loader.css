@@ -49,7 +49,7 @@
 .loader.hidden {
     display: none;
 }
-.lauder-sign {
+.loader-sign {
     display: flex;
     justify-content: center;
     margin: auto;
